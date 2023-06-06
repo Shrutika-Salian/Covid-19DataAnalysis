@@ -1,9 +1,9 @@
 # Covid-19DataAnalysis
 
-Using R for Data Analysis: </ br>
--> Described & got to know more about the dataset </ br>
--> Cleansed the dataset  </ br>
--> Performed Data Analysis like: </ br>
+Using R for Data Analysis: <\ br>
+-> Described & got to know more about the dataset <\ br>
+-> Cleansed the dataset  <\ br>
+-> Performed Data Analysis like: <\br>
    - Death rate due to COVID-19 in percentage
    - People who die from COVID-19 tend to be older on average
    - Men have a higher death rate compared to Women
